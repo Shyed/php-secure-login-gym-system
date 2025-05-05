@@ -61,7 +61,7 @@ php-secure-login-gym-system/
 ## Author
 
 Created with care and effort by **Sheila Demonteverde**  
-© 2025 Sheila Demonteverde. All rights reserved.
+© 2020 Sheila Demonteverde. All rights reserved.
 MAC 272 - PHP Web Development
 
 ---
