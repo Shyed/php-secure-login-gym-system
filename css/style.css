@@ -1,0 +1,26 @@
+body, html {    
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("homecover.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    color: white;
+    font-size: 20px;  
+}
+
+form
+{
+    background-color: black;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: none;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
